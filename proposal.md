@@ -1,29 +1,28 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: Apache Openwhisk
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Apache Openwhisk is an open-source project aimed to provide production ready serverless offering to the users. Serverless architecture is a newly emerging framework, following the concept of FaaS (Function as a Service), providing flexible scalling options with billing to fine-grained granularity. 
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2018-10-07` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Repository URL | `https://github.com/apache/openwhisk` |
+| Main/documentation website |  `https://openwhisk.apache.org`  |
+| Year project was started | `2018`  |
+| Number of contributors in the past year | `75` |
+| Number of contributors in the lifetime of the project | `224`  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Where do development discussions take place? | `GitHub/GitLab issues & Slack`  |
+| Typical number of emails/comments per week? | `20+`  |
+| Typical number of commits per week? | `5-7` |
+| Typical commit size | `50 insertions` |
+| How does the project accept contributions? | `yes`  |
+| Does the project have an automated test suite? | `no` |
+| Does the project use continuous integration? | `yes` |
+| Are any legal/licensing steps required to contribute? | `The OpenWhisk project asks that contributors to fill out and send into Apache, an Individual Contributors License Agreement (ICLA) (and perhaps also a Corporate Contributors License Agreement (CCLA)).` |
 
 ### Install and run
 
