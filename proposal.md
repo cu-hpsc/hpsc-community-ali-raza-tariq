@@ -29,19 +29,14 @@ Apache Openwhisk is an open-source project aimed to provide production ready ser
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [.] I have installed the software
+- [.] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+This is a very interesting project which also happens to be graduate research field. My only concern is, this is a rather big project that builds on top of other big open-source project such as `Docker` & `Kafka` etc. Which results in a very lower chance of any feature enhancement contribution (given the time limitation). However, this seems a fast moving project with very responsive community which will definitely give me more exposure as a professional.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
