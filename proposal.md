@@ -14,7 +14,7 @@ Apache Openwhisk is an open-source project aimed to provide production ready ser
 | Year project was started | `2018`  |
 | Number of contributors in the past year | `75` |
 | Number of contributors in the lifetime of the project | `224`  |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of distinct affiliations | `N/A` |
 | Where do development discussions take place? | `GitHub/GitLab issues & Slack`  |
 | Typical number of emails/comments per week? | `20+`  |
 | Typical number of commits per week? | `5-7` |
